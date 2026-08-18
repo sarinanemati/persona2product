@@ -1,6 +1,5 @@
 # persona2product
 digital product recommender based on your persona
-# Persona2Product: AI-Powered Product Recommendation System
 
 **Persona2Product** is a context-aware recommendation engine built with Streamlit. It moves beyond standard collaborative filtering by matching users to products based on their **shopping persona** (e.g., Brand-Oriented, Budget-Conscious, Performance-Focused). 
 
