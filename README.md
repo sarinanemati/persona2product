@@ -90,6 +90,15 @@ The entire UI styling is controlled via the <style> block inside the `st.markdow
 ## About Data
 the data was collected by scraping bot I made to scrape products info and comments from Digital category in digikala.com
 
+##demo
+
+![alt text](images/persona2product.jpg)
+![alt text](images/persona2product(1).jpg)
+![alt text](images/persona2product(2).jpg)
+![alt text](images/persona2product(3).jpg)
+![alt text](images/persona2product(4).jpg)
+![alt text](images/persona2product(5).jpg)
+
 ```bash
 git clone https://github.com/your-username/persona2product.git
 cd persona2product
