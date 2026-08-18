@@ -100,6 +100,6 @@ the data was collected by scraping bot I made to scrape products info and commen
 
 or use clone
 ```bash
-git clone https://github.com/your-username/persona2product.git
+git clone https://github.com/sarinanemati/persona2product.git
 cd persona2product
 ```
